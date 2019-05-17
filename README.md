@@ -1,4 +1,4 @@
-# JHU Ai Course
+# JHU Ai Course Materials
 
 JHU AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn.
 
