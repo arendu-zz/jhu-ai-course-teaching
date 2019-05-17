@@ -1,8 +1,10 @@
 # jhu-ai-course-teaching
 
-JHU Ai course resources created during my Teaching Assistantship with Prof. Philipp Koehn.
+JHU AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn.
 
 ## Game playing
+
+![diagram](imgs/checkmate_puzzle_solution.gif)
 
 Jupyter notebook that guides a student through:
 
