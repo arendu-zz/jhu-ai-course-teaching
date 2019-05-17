@@ -4,7 +4,7 @@ JHU AI course resources created during my Teaching Assistantship with Prof. Phil
 
 ## Game playing
 
-![diagram](imgs/checkmate_puzzle_solution.gif)
+![diagram](imgs/chess_puzzle_solution.gif)
 
 Jupyter notebook that guides a student through:
 
