@@ -2,7 +2,7 @@
 
 AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn at Johns Hopkins University.
 
-## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/slides.pdf)
+## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
   <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/imgs/chess_puzzle_solution.gif" width="40%" align="middle">
