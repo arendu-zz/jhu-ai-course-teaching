@@ -1,6 +1,6 @@
 # JHU Ai Course Resources
 
-JHU AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn.
+AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn at Johns Hopkins University.
 
 ## Game playing
 
