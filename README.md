@@ -4,7 +4,9 @@ JHU AI course resources created during my Teaching Assistantship with Prof. Phil
 
 ## Game playing
 
-<img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/imgs/chess_puzzle_solution.gif" width="40%" align="middle">
+<p align="center">
+  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/imgs/chess_puzzle_solution.gif" width="40%" align="middle">
+</p>
 
 Jupyter notebook that guides a student through:
 
