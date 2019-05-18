@@ -31,11 +31,10 @@ Jupyter notebook that guides a student through:
 
 <p align="center">
 
-1. Minimax algorithm.
-2. Completely solving the game in checkmate puzzle (feasible since it only requires looking a couple of moves ahead).
-3. Evaluation function (allows to avoid exploring the full game tree by approximating desirability of a board positions).
-4. Alpha-beta prunning algorithm (prunes nodes that are known to not affect the final decision in mini-max).
-5. Combines all introduced concepts into chess-playing agent.
-6. Allows students to play against the agent or observe the agent playing against itself.
+1. Implementation of search tree (allows us to recover the solution once a target node is found).
+2. Implementation of breadth-first algorithm.
+3. Implementation of uniform-cost search algorithm.
+4. Application of this algorithms for the problem of finding the shortest path on the map of Hopkins Homewood campus.
+5. Explanation on why breadth first search is not optimal in when applied to this problem and why uniform-cost search is.
     
 </p>
