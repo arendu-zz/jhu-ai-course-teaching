@@ -35,6 +35,6 @@ Jupyter notebook that guides a student through:
 2. Implementation of breadth-first algorithm.
 3. Implementation of uniform-cost search algorithm.
 4. Application of this algorithms for the problem of finding the shortest path on the map of Hopkins Homewood campus.
-5. Explanation on why breadth first search is not optimal in when applied to this problem and why uniform-cost search is optimal in this case.
+5. Explanation on why breadth first search is not optimal when applied to this problem (nodes on the map graph are not placed uniformly) and why uniform-cost search is optimal in this case.
     
 </p>
