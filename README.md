@@ -2,6 +2,8 @@
 
 AI course resources created during my Teaching Assistantship with Prof. Philipp Koehn at Johns Hopkins University.
 
+During my assisntanship, I gave a lecture on game playing (enclosed below) and created materials which are provided in this repository.
+
 ## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
@@ -54,6 +56,6 @@ Jupyter notebook guides a student through:
 2. Stochastic environment which is represented by a weak stockfish engine that will play against our agent.
 3. Reward discounting.
 4. Policy gradients.
-5. Optimization look where we use policy gradients to adjust weights of our network and improve our decisions as a result of that.
+5. Optimization loop where we use policy gradients to adjust weights of our network and improve our decisions as a result of that.
     
 </p>
