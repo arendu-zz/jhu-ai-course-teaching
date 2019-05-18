@@ -5,7 +5,7 @@ AI course resources created during my Teaching Assistantship with Prof. Philipp 
 ## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
-  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/imgs/chess_puzzle_solution.gif" width="40%" align="middle">
+  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/chess_puzzle_solution.gif" width="40%" align="middle">
 </p>
 
 Jupyter notebook that guides a student through:
@@ -24,7 +24,7 @@ Jupyter notebook that guides a student through:
 ## Uninformed Search [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
-  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/imgs/chess_puzzle_solution.gif" width="40%" align="middle">
+  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/uninformed_search/search_viz.gif" width="40%" align="middle">
 </p>
 
 Jupyter notebook that guides a student through:
