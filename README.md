@@ -53,7 +53,7 @@ Jupyter notebook guides a student through:
 <p align="center">
 
 1. Implementation of a simple deep neural network that takes chess board as input.
-2. Stochastic environment which is represented by a weak stockfish engine that will play against our agent.
+2. Stochastic environment which is represented by a weak stockfish engine that will play against our agent. Starting position of the chess game was greatly simplified to adjust to limited computational resources of students.
 3. Reward discounting.
 4. Policy gradients.
 5. Optimization loop where we use policy gradients to adjust weights of our network and improve our decisions as a result of that.
