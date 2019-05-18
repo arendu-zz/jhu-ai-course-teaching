@@ -4,6 +4,8 @@ AI course resources created during my Teaching Assistantship with Prof. Philipp 
 
 During my assisntanship, I gave a lecture on game playing (enclosed below) and created materials which are provided in this repository.
 
+The course is mostly based on the book Artificial Intelligence: A Modern Approach by by Stuart Russell and Peter Norvig.
+
 ## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
