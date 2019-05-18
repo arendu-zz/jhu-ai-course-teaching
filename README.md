@@ -8,7 +8,7 @@ AI course resources created during my Teaching Assistantship with Prof. Philipp 
   <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/chess_puzzle_solution.gif" width="40%" align="middle">
 </p>
 
-Jupyter notebook that guides a student through:
+Jupyter notebook guides a student through:
 
 <p align="center">
 
@@ -27,7 +27,7 @@ Jupyter notebook that guides a student through:
   <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/uninformed_search/search_viz.gif" width="40%" align="middle">
 </p>
 
-Jupyter notebook that guides a student through:
+Jupyter notebook guides a student through:
 
 <p align="center">
 
@@ -46,14 +46,14 @@ Jupyter notebook that guides a student through:
   <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/deep_rl/deep_rl_graph.png" width="40%" align="middle">
 </p>
 
-Jupyter notebook that guides a student through:
+Jupyter notebook guides a student through:
 
 <p align="center">
 
-1. Implementation of search tree (allows us to recover the solution once a target node is found).
-2. Implementation of breadth-first algorithm.
-3. Implementation of uniform-cost search algorithm.
-4. Application of this algorithms for the problem of finding the shortest path on the map of Hopkins Homewood campus.
-5. Explanation on why breadth first search is not optimal when applied to this problem (nodes on the map graph are not placed uniformly) and why uniform-cost search is optimal in this case.
+1. Implementation of a simple deep neural network that takes chess board as input.
+2. Stochastic environment which is represented by a weak stockfish engine that will play against our agent.
+3. Reward discounting.
+4. Policy gradients.
+5. Optimization look where we use policy gradients to adjust weights of our network and improve our decisions as a result of that.
     
 </p>
