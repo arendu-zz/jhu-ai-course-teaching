@@ -21,7 +21,7 @@ Jupyter notebook that guides a student through:
     
 </p>
 
-## Uninformed Search [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
+## Uninformed Search [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/uninformed_search/notebook.ipynb) [[jupyter notebook]](uninformed_search/notebook.ipynb)
 
 <p align="center">
   <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/uninformed_search/search_viz.gif" width="40%" align="middle">
