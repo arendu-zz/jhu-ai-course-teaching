@@ -6,6 +6,8 @@ During my assisntanship, I gave a lecture on game playing (enclosed below) and c
 
 The course is based on the book "Artificial Intelligence: A Modern Approach" by by Stuart Russell and Peter Norvig.
 
+All examples can be run directly in your browser if you press on ```[colab notebook]``` hyperlink of the section that you are interested in.
+
 ## Game playing [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/game_playing/notebook.ipynb) [[jupyter notebook]](game_playing/notebook.ipynb) [[slides]](game_playing/lecture_slides.pdf)
 
 <p align="center">
