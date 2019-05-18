@@ -38,3 +38,22 @@ Jupyter notebook that guides a student through:
 5. Explanation on why breadth first search is not optimal when applied to this problem (nodes on the map graph are not placed uniformly) and why uniform-cost search is optimal in this case.
     
 </p>
+
+
+## Deep Reinforcement Learning [[colab notebook]](https://colab.research.google.com/github/warmspringwinds/jhu-ai-course-teaching/blob/master/deep_rl/notebook.ipynb) [[jupyter notebook]](deep_rl/notebook.ipynb)
+
+<p align="center">
+  <img src="https://github.com/warmspringwinds/jhu-ai-course-teaching/blob/master/deep_rl/deep_rl_graph.png" width="40%" align="middle">
+</p>
+
+Jupyter notebook that guides a student through:
+
+<p align="center">
+
+1. Implementation of search tree (allows us to recover the solution once a target node is found).
+2. Implementation of breadth-first algorithm.
+3. Implementation of uniform-cost search algorithm.
+4. Application of this algorithms for the problem of finding the shortest path on the map of Hopkins Homewood campus.
+5. Explanation on why breadth first search is not optimal when applied to this problem (nodes on the map graph are not placed uniformly) and why uniform-cost search is optimal in this case.
+    
+</p>
